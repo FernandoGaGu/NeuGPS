@@ -15,7 +15,7 @@ Laura Hernández-Lorenzo, Jorge Matías-Guiu, José L. Ayala,  Jordi A. Matias-G
 
 <br />
 <p align="center">
-    <img src="https://github.com/FernandoGaGu/NeuGPS/img/NeuGPSdemo.gif" alt="Example">
+    <img src="https://github.com/FernandoGaGu/NeuGPS/blob/master/img/NeuGPSdemo.gif" alt="Example">
 </p>
 
 ## Installation
