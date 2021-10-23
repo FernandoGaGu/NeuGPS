@@ -13,6 +13,11 @@ Authors: Fernando Garcia-Gutierrez, Alfonso Delgado-Alvarez, Cristina Delgado-Al
 Josefa Díaz-Álvarez,  Vanesa Pytel, Maria Valles-Salgado, María Jose Gil, 
 Laura Hernández-Lorenzo, Jorge Matías-Guiu, José L. Ayala,  Jordi A. Matias-Guiu.
 
+<br />
+<p align="center">
+    <img src="https://github.com/FernandoGaGu/NeuGPS/img/NeuGPSdemo.gif" alt="Example">
+</p>
+
 ## Installation
 
 1. Clone the repository.
@@ -21,12 +26,13 @@ git clone https://github.com/FernandoGaGu/NeuGPS
 ```
 2. Once cloned, go into the repository and run:
 ```bash
+cd NeuGPS
 pip install -e .
 ```
 
 3. Once steps 1 and 2 have been completed, the program can be executed (always located within the repository) using:
 ```bash
-python neugps
+python -m neugps
 ```
 ## Warranties
 This program has been developed as a proof of concept. Neither the authors nor the organisations involved are in any way 
